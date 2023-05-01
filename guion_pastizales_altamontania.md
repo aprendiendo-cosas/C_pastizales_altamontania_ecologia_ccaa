@@ -11,7 +11,7 @@
 >
 > 
 
-![portada](https://github.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/blob/main/imagenes/portada.jpg?raw=true)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/main/imagenes/portada.jpg)
 
 
 
@@ -20,10 +20,9 @@
 Este guión tiene los siguientes objetivos que deberán de ser satisfechos por los estudiantes que preparan esta actividad. 
 
 + Disciplinares (relacionados con la ecología): Estos objetivos son, además, los que deberán de satisfacer los estudiantes que escuchen al grupo que se encarga de la parada. 
-  + Identificar a los ecosistemas de matorral de alta montaña como el sistema más adaptado posible a las condiciones existentes en ambientes de montaña. 
-  + Comprender por qué no pueden vivir los árboles en las condiciones sen las que sí viven los matorrales.
-  + Reconocer los procesos sucesionales en los ecosistemas terrestres.
-  + Reconocer cómo cambia la velocidad de la sucesión en virtud de las condiciones ambientales.
+  + Identificar a los ecosistemas de pastizales de alta montaña como los únicos capaces de vivir en las condiciones de la alta montaña.
+  + Comprender por qué no pueden vivir los árboles ni los matorrales en las condiciones sen las que sí viven los pastizales.
+  + Reconocer la importancia de estos ecosistemas desde el punto de vista de la endemicidad taxonómica que presentan.
   + Comprender la sensibilidad de los ecosistemas de alta montaña frente a las perturbaciones.
 + Instrumentales:
   + Mejorar sus habilidades para trabajar en equipo.
@@ -34,25 +33,15 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-La zona de estudio está a una altitud de unos 2300m, en la ladera izquierda del valle del arroyo de San Juan, muy cerca de su nacimiento. Es un zona con pendientes suaves ocupada por el denominado enebral-piornal de Sierra Nevada. Se trata de un ecosistema en el que dominan las plantas leñosas con porte almohadillado (es decir, con forma de semiesfera). Las especies más frecuentes son el enebro (*Juniperus communis* subsp. *nana*) y el piorno (*Genista versicolor*). Las duras condiciones ambientales reinantes a esta altitud condicionan la estructura y funcionamiento de este ecosistema. Las vegetación se adapta a estas condiciones generando estructuras en forma de almohada o semiesfera. Esto les permite sostener el peso de la nieve que está presente aquí durante más de 5 meses al año. En este artículo hay más información sobre [este](https://wastemagazine.es/sierranevada-enebral-piornal.htm) tipo de ecosistema.  
-
-En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremos esta actividad. Es un mapa dinámico en el que puedes interactuar con los distintos elementos. Si haces click en los puntos verás fotos e información relevante.
+Los pastizales de alta montaña mediterránea se extienden desde los 2600m de altitud hasta las cumbres del Mulhacén (3482m). En nuestra excursión veremos a los pastizales desde abajo ya que para acceder a ellos hay que andar mucho y no tenemos tiempo. Se trata de formaciones herbáceas en las que, si bien la riqueza específica es baja, hay un gran porcentaje de especies endémicas. Estos ecosistemas pasan una parte importante del año cubiertos por nieve. En primavera y verano ocurre una floración y fructificación acelerada. Abundan las plantas de la familia gramíneas y resedáceas. Los insectos que viven en estas alturas tienen adaptaciones específicas para resistir los rigores climáticos. 
 
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1azJEJ9G19H9cW3xhXahKN5ajmZvBB-A&ehbc=2E312F" width="640" height="680"></iframe>
-
-Esta zona es interesante para nosotros por dos razones:
-
-+ La naturaleza de los enebrales-piornales como el último tipo de ecosistema terrestre que puede vivir en las montañas. Más arriba solo pueden vivir plantas herbáceas.
-+ Estudiar el impacto de las perturbaciones en ecosistemas de alta montaña. En esta zona se construyó una primitiva estación de esquí a mediados del siglo XX. La construcción de los remotes generó un gran impacto en el enebral-piornal. En esta actividad analizaremos cómo se produce la regeneración de esta formación:
-
-El siguiente panel muestra cómo ha cambiado la estructura de la vegetación de la zona de estudio desde 1956 hasta la actualidad. También se puede ver cómo ha cambiado la producción primaria en la zona afectada por el remote construido a mediados del siglo XX. En esta gráfica (basada en el NDVI. Ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) de la práctica correspondiente) se observa una clara tendencia hacia más producción primaria. La gráfica se ha construido con [esta](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer) aplicación web. 
+El siguiente mapa muestra la zona desde la que visualizaremos estos pastizales. Con un poco de suerte aún habrá algo de nieve.
 
 
 
-![portada](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/blob/main/imagenes/regeneracion_enebral.jpg?raw=true)
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kuAbjm4bqaEW9LBnmGn65tvKvDj9IbE&ehbc=2E312F" width="640" height="680"></iframe>
 
 
 
@@ -60,14 +49,9 @@ El siguiente panel muestra cómo ha cambiado la estructura de la vegetación de 
 ## Aspectos teóricos a considerar en la explicación
 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
-+ Concepto de producción primaria.
-  + El [guión de este tema](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_primaria_ecologia_ccaa/main/guion_produccion_primaria.html) de la asignatura contiene los elementos clave a considerar.
-
-  + El [guión de la práctica sobre producción primaria](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) también será de ayuda para explicar los conceptos teóricos de interés. 
-
-+ Cambio de usos del suelo. Una de las claves de esta parada es interpretar y entender cómo han cambiado los usos del suelo a lo largo del tiempo. Esto explica la situación actual del sistema estudiado. [Este](https://portalrediam.cica.es/comparaWMS/index.html) visor de fotografías aéreas de la Junta de Andalucía permite conocer cómo ha evolucionado la zona de estudio a lo largo del tiempo. Se puede visualizar la estructura de la vegetación en distintos momentos temporales.
-
-+ Concepto de sucesión ecológica. La sucesión ecológica como proceso natural tiende a regenerar un bosque en la zona estudiada. Los distintos usos del suelo y las perturbaciones que han ocurrido a lo largo del tiempo ayudan o impiden (según el caso) el desarrollo de la sucesión ecológica. El [guión del tema de sucesión](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) ecológica contiene elementos importantes a tener en cuenta.
++ Adaptaciones de los seres vivos al clima de la alta montaña. Los ecosistemas presentes en esta zona se diferencian mucho de otros que veremos durante la salida. No hay árboles, la diversidad es mucho más baja, etc. Comprender las razones por las que ocurre esto es importante. 
++ El límite de la vegetación leñosa. La ausencia de árboles tiene una razón de ser que está relacionada con el clima. 
++ La endemicidad. Resulta interesante que en estos páramos con muy poca vida, haya una tasa de endemicidad muy alta. Es decir, las pocas especies existentes son casi exclusivas de este macizo montañoso. 
 
   
 
