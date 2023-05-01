@@ -51,20 +51,14 @@ El siguiente mapa muestra la zona desde la que visualizaremos estos pastizales. 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
 + Adaptaciones de los seres vivos al clima de la alta montaña. Los ecosistemas presentes en esta zona se diferencian mucho de otros que veremos durante la salida. No hay árboles, la diversidad es mucho más baja, etc. Comprender las razones por las que ocurre esto es importante. 
 + El límite de la vegetación leñosa. La ausencia de árboles tiene una razón de ser que está relacionada con el clima. 
-+ La endemicidad. Resulta interesante que en estos páramos con muy poca vida, haya una tasa de endemicidad muy alta. Es decir, las pocas especies existentes son casi exclusivas de este macizo montañoso. 
++ La endemicidad. Resulta interesante que en estos páramos con muy poca vida, haya una tasa de endemicidad muy alta. Es decir, las pocas especies existentes son casi exclusivas de este macizo montañoso. [Este](https://github.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/raw/main/biblio/2003_Quercus_205_32_38.pdf) artículo resume las razones de este alto grado de endemicidad.
 
   
 
 
 ## Aspectos aplicados a considerar en la explicación
 
-Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, son los siguientes:
-
-+ Restauración ecológica. Conjunto de técnicas que ponemos en práctica los humanos para tratar de acelerar la sucesión ecológica natural. Implican varias actuaciones diferentes que persiguen reducir la pérdida de suelo y fomentar la recolonización de la vegetación. Los siguientes materiales pueden ser de utilidad:
-  + En el [guión sobre sucesión ecológica](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) hay información relevante para entender este aspecto.
-  + [Este](https://digibug.ugr.es/bitstream/handle/10481/73929/manual-enebros-digital.pdf?sequence=4&isAllowed=y) libro describe con gran detalle la dinámica, estructura, funcionamiento y estrategias de restauración de los enebrales de Sierra Nevada. Es largo, pero se lee rápido. Además, tienes muchos resúmenes y conclusiones que os resultarán muy útiles. 
-
-Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a la lista sin problema. 
+Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, se centran en las tareas de restauración y conservación de las especies amenazadas y endémicas. En [esta](https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/biodiversidad-y-vegetacion/flora-protegida/conservacion-y-recuperacion-de-especies-de-flora-amenazada/especies-de-altas-cumbres) página de la Junta de Andalucía hay mucha información sobre el manejo de la flora amenazada de las altas cumbres.
 
 
 
@@ -72,8 +66,8 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. 
 
-+ Restauración tras las perturbaciones (incendios, desmontes, etc.). El libro mencionado anteriormente aporta información muy útil para entender este reto de gestión.
-+ Impacto del cambio climático en estas formaciones vegetales. [Este](https://github.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/raw/main/biblio/enebrales.pdf) capítulo de libro contiene información relevante para entender cómo el cambio climático podría afectar a los enebrales. Es un texto largo, pero tiene muchas tablas, así que hay poca "miga" de texto. Buscad los aspectos más relevantes. 
++ Conflictos de uso público en la alta montaña. Una de las conclusiones importantes sobre la ecología de los ecosistemas de alta montaña es su fragilidad. La red trófica que existe en esta zona es mucho menos densa que en otros territorios más favorables para la vida. Esto hace que los ecosistemas sufran intensamente los impactos de la actividad humana. En los últimos años el uso público constituye una amenaza para las altas cumbres. [Este](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAQQw7AJahcKEwjA-qKs0dT-AhUAAAAAHQAAAAAQAw&url=https%3A%2F%2Fwww.miteco.gob.es%2Fes%2Fred-parques-nacionales%2Fboletin%2Fuso-publico_tcm30-69578.pdf&psig=AOvVaw0yZoXw3Tev9RSjCoSMPj7b&ust=1683048159051400) documento muestra las directrices principales de gestión de uso público en el espacio protegido de Sierra Nevada.
++ Impacto del cambio climático en las altas cumbres nevadenses. [Este](https://www.elindependientedegranada.es/economia/victimas-cambio-climatico-sierra-nevada) artículo periodístico (escrito por un ex-alto cargo del espacio protegido de Sierra Nevada), describe los impactos principales de este fenómeno sobre la diversidad de Sierra Nevada. 
 
 
 
